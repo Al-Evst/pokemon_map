@@ -1,4 +1,6 @@
-# Карта покемонов
+# Pokemon Map — Django проект
+Интерактивная карта с покемонами на Django.
+Проект отображает покемонов на карте Москвы, показывает их характеристики, эволюции и текущее положение.
 
 ![screenshot](https://dvmn.org/filer/canonical/1563275070/172/)
 
@@ -27,7 +29,7 @@ pip install -r requirements.txt
 Запустите разработческий сервер
 
 ```sh
-python3 manage.py runserver
+python manage.py runserver
 ```
 
 ### Переменные окружения
